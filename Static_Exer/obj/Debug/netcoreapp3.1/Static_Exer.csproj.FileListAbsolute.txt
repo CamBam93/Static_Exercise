@@ -1,0 +1,13 @@
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\bin\Debug\netcoreapp3.1\Static_Exer.exe
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\bin\Debug\netcoreapp3.1\Static_Exer.deps.json
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\bin\Debug\netcoreapp3.1\Static_Exer.runtimeconfig.json
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\bin\Debug\netcoreapp3.1\Static_Exer.runtimeconfig.dev.json
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\bin\Debug\netcoreapp3.1\Static_Exer.dll
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\bin\Debug\netcoreapp3.1\Static_Exer.pdb
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.csprojAssemblyReference.cache
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.AssemblyInfoInputs.cache
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.AssemblyInfo.cs
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.dll
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.pdb
+C:\Users\Cameron Kellett\Skoo\repos\Static_Exer\Static_Exer\obj\Debug\netcoreapp3.1\Static_Exer.genruntimeconfig.cache
